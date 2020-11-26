@@ -1,0 +1,18 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false
+  },
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "Koek",
+    "Sovannarong",
+    "madebyconnor",
+    "unsized"
+  ],
+}
